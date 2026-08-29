@@ -40,5 +40,5 @@ A collection of four iOS practice apps built in Xcode while learning mobile app 
 
 ## Author
 
-**Shivansh**  
+**Shivansh Saraswat**  
 [GitHub Profile](https://github.com/SHIVANSH5441)
